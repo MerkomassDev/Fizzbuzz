@@ -12,6 +12,9 @@ might not be the best, but i wrote it with my limited knowledge of different lan
 
 **Maybe??:** BrainFuck, Java
 
+##Known Problems
+
+**JavaScript:** prints "FizzBuzz" before "1"
 
 ## Authors
 
