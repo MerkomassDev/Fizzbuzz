@@ -3,7 +3,7 @@
 //for multiples of "5" print “Buzz” 
 //for multiples of "3" & "5" print "Fizzbuzz"
 
-for (let i = 0; i <= 100; i++) {
+for (let i = 1; i <= 100; i++) {
     if(i % 3 == 0 && i % 5 == 0){
         console.log("fizzbuzz")
     }
