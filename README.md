@@ -15,7 +15,7 @@ also im testing doing issues, pull requests etc.
 
 ## Known Problems
 
-**JavaScript:** prints "FizzBuzz" before "1"
+clueless
 
 ## Authors
 
