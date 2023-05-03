@@ -15,8 +15,8 @@ also im testing doing issues, pull requests etc.
 
 ## Known Problems
 
-clueless
+no issues discovered so far...
 
-## Authors
+## Author
 
 - [@MerkomassDev](https://github.com/MerkomassDev)
